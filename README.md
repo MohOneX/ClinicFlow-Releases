@@ -29,22 +29,9 @@ This repository hosts **official installers only**. Application source code is m
 
 ---
 
-## Screenshots
+## Screenshot
 
-### Timeline schedule
-Plan the day by provider. Scroll the timeline with the mouse wheel to move across clinic hours.
-
-![ClinicFlow timeline calendar](screenshots/calendar-timeline.png)
-
-### Patient chart & schedule
-See today’s visits by date, open the chart, manage medical history, clinical notes, prescriptions, and reminders in one place.
-
-![ClinicFlow patients chart](screenshots/patients-chart.png)
-
-### Prescriptions with live preview
-Compose medications, preview the letterhead in Arabic/English layout, then finalize, print, or save as PDF.
-
-![ClinicFlow prescription composer](screenshots/prescriptions.png)
+![ClinicFlow](screenshots/Screenshot.png)
 
 ---
 
